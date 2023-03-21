@@ -1,6 +1,6 @@
 # Visual-analytics-in-agriculture
 
-![output](https://user-images.githubusercontent.com/40064709/226529941-126deecb-175c-425c-8bc8-517725578223.png)
+![output](https://user-images.githubusercontent.com/40064709/226532162-6a25d398-e41a-4c25-aa53-028566935d15.png)
 
 ### Usage
 
