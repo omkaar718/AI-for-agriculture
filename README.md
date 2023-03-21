@@ -1,11 +1,6 @@
 # Visual-analytics-in-agriculture
 
-<div align="center">
-    <a href="./">
-        <img src="./figure/output.png" width="100%"/>
-    </a>
-</div>
-
+![output](https://user-images.githubusercontent.com/40064709/226529941-126deecb-175c-425c-8bc8-517725578223.png)
 
 ### Usage
 
